@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(185, 52, 79);
+}
+.circle{
+    width: 800px;
+    height: 143px;
+
+    
+    background-color:rgb(255, 255, 255);
+    border-radius: 25px
+}
+.circle1{
+    width: 675px;
+    height: 475px;
+
+    
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px
+}
+.circle2{
+    width: 675px;
+    height: 60px;
+
+    
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px
+}
+.circle3{
+    width: 800px;
+    height: 85px;
+    
+    
+    background-color:rgb(255, 255, 255);
+    border-radius: 25px
+}
+.img{
+    padding-left: 900px;
+}
+.img1{
+    padding-left: 300px;
+}
