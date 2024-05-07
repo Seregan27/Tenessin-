@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(185, 52, 79);
+    background:linear-gradient(red, rgb(6, 6, 179));
 }
 .circle{
     width: 800px;
@@ -39,3 +39,9 @@ body{
 .img1{
     padding-left: 300px;
 }
+a {
+    text-decoration:none;
+    color: aliceblue;
+    font-size: 14px;
+    margin-left: 1300px;
+  }
