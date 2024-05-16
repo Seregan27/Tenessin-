@@ -4,7 +4,8 @@ body{
 .circle{
     width: 800px;
     height: 143px;
-
+    margin-left: auto;
+    margin-right: auto;
     
     background-color:rgb(255, 255, 255);
     border-radius: 25px
@@ -12,7 +13,8 @@ body{
 .circle1{
     width: 675px;
     height: 475px;
-
+    margin-left: auto;
+    margin-right: auto;
     
     background-color:rgb(255, 255, 255);
     border-radius: 17px
@@ -20,7 +22,8 @@ body{
 .circle2{
     width: 675px;
     height: 60px;
-
+    margin-left: auto;
+    margin-right: auto;
     
     background-color:rgb(255, 255, 255);
     border-radius: 17px
@@ -28,20 +31,17 @@ body{
 .circle3{
     width: 800px;
     height: 85px;
-    
+    margin-left: auto;
+    margin-right: auto;
     
     background-color:rgb(255, 255, 255);
     border-radius: 25px
 }
 .img{
-    padding-left: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .img1{
-    padding-left: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
-a {
-    text-decoration:none;
-    color: aliceblue;
-    font-size: 14px;
-    margin-left: 1300px;
-  }
